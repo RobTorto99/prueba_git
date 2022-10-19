@@ -7,3 +7,6 @@ def fibonacci(num: int):
         return fibonacci(num-1) + fibonacci(num-2)
 
 print(fibonacci(10))
+
+aux = ("github", 7, "prueba", 33.33)
+print(aux)   
